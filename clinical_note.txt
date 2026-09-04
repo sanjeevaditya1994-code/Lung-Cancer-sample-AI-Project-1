@@ -1,13 +1,23 @@
-Patient is a 64-year-old male with a 40-pack-year smoking history.
+SYNTHETIC CLINICAL NOTE
+For Educational and AI Testing Purposes Only
 
-CT chest revealed a 4.2 cm mass in the right upper lobe.
+Patient Information:
+The patient is a 64-year-old male with a 40-pack-year smoking history.
 
-Biopsy confirmed non-small cell lung cancer,
-adenocarcinoma type.
+Chief Complaint:
+The patient presented with persistent cough and shortness of breath for approximately three months.
 
-PET scan showed involvement of mediastinal lymph nodes.
+Diagnostic Imaging:
+CT chest revealed a 4.2 cm mass located in the right upper lobe of the lung. Enlarged mediastinal lymph nodes were also noted.
 
-No distant metastases were identified.
+Pathology:
+Bronchoscopic biopsy of the right upper lobe mass confirmed non-small cell lung cancer, adenocarcinoma type.
 
-The patient was referred to medical oncology
-for treatment planning.
+Staging:
+PET scan demonstrated involvement of mediastinal lymph nodes. No distant metastatic disease was identified on the imaging performed.
+
+Treatment Plan:
+The patient was referred to medical oncology for further treatment planning.
+
+Clinical Summary:
+64-year-old male with a significant smoking history and newly diagnosed right upper lobe non-small cell lung adenocarcinoma with mediastinal lymph node involvement and no distant metastases identified.
