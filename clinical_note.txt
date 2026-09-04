@@ -1,0 +1,13 @@
+Patient is a 64-year-old male with a 40-pack-year smoking history.
+
+CT chest revealed a 4.2 cm mass in the right upper lobe.
+
+Biopsy confirmed non-small cell lung cancer,
+adenocarcinoma type.
+
+PET scan showed involvement of mediastinal lymph nodes.
+
+No distant metastases were identified.
+
+The patient was referred to medical oncology
+for treatment planning.
